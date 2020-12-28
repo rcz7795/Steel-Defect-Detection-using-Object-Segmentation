@@ -34,7 +34,7 @@ There are two tasks associated with this problem
 
 ## Modelling :
 
-The analysis and model creation can be found in the .ipynb file. 
+The detailed analysis and model creation strategies can be found in the .ipynb file. 
 
 ## Result :
 
@@ -55,6 +55,6 @@ As this problem dealt with binary classification, multi label classification and
   - Then, put the defected images inside the multi label classifier detect the Defect Class 
   - Then, each defect will go to their corresponding individually trained model per defect and to get the mask in the size (256, 800, 1) which will be resized to the original image size of (256, 1600, 1) which can be correctly converted to run length encoding of the mask
 
-# Further scope :
+### Future scope :
 
   - The results are good using the current approaches, but there is still some scope to improve the model using more newer SOTA models
