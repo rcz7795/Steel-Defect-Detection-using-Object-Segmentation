@@ -1,6 +1,6 @@
 # Steel-Defect-Detection-using-Object-Segmentation
 
-![CV](https://img.shields.io/badge/CV-Object Segmentation-blue.svg) 
+![CV](https://img.shields.io/badge/CV-Object_Segmentation-blue.svg) 
 
 ![logo](Snips/Severstal_logo.png)
 
@@ -40,11 +40,11 @@ The analysis and model creation can be found in the .ipynb file.
 
 Some of the test images are as follows:
 
-![test](Snips/5.jpg)
-![test](Snips/4.jpg)
-![test](Snips/3.jpg)
-![test](Snips/2.jpg)
-![test](Snips/2.jpg)
+![test](Snips/5.JPG)
+![test](Snips/4.JPG)
+![test](Snips/3.JPG)
+![test](Snips/2.JPG)
+![test](Snips/1.JPG)
 
 
 ## Conclusion :
