@@ -57,4 +57,4 @@ As this problem dealt with binary classification, multi label classification and
 
 # Further scope :
 
-  - The results are good using the current approches, but there is still some scope to improve the model using more newer SOTA models
+  - The results are good using the current approaches, but there is still some scope to improve the model using more newer SOTA models
