@@ -41,13 +41,17 @@ The detailed analysis and model creation strategies can be found in the .ipynb f
 Some of the test images are as follows:
 
 ![test](Snips/5.JPG)
+
 ![test](Snips/4.JPG)
+
 ![test](Snips/3.JPG)
+
 ![test](Snips/2.JPG)
+
 ![test](Snips/1.JPG)
 
 
-## Conclusion :
+## Conclusions :
 
 As this problem dealt with binary classification, multi label classification and segmentation, the following approach was used to generate the results:
   - First, getting the image from the data pipeline and feeding it into the binary classifier to filter out the defected and undefected images apart
